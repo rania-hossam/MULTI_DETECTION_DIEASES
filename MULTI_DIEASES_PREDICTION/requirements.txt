@@ -1,0 +1,10 @@
+python_version==3.9.5
+fastapi
+requests
+numpy
+pandas
+scikit-learn
+pydantic
+pickle
+json
+uvicorn
